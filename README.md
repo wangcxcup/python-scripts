@@ -32,3 +32,4 @@ python GetChinaNews.py -d 2013-11-12 2013-11-14 获取2013-11-12到2013-11-14之
 python GetChinaNews.py -dx 2013-11-12 5 获取2013-11-12之后5天的新闻
 
 python GetChinaNews.py -a 获取最近30天内的新闻
+# python-scripts
